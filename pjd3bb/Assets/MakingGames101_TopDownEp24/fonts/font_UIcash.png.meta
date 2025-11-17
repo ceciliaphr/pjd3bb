@@ -1,0 +1,2168 @@
+fileFormatVersion: 2
+guid: cceb78eff42b6e44c9929fdcf4fc75e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 476934171183230349
+    second: font_UIcash_0
+  - first:
+      213: 6967551433366403191
+    second: font_UIcash_1
+  - first:
+      213: 1602670460062932172
+    second: font_UIcash_2
+  - first:
+      213: -2661088240921687410
+    second: font_UIcash_3
+  - first:
+      213: -6834198216201435205
+    second: font_UIcash_4
+  - first:
+      213: -8379270974818950440
+    second: font_UIcash_5
+  - first:
+      213: 1986675559685046245
+    second: font_UIcash_6
+  - first:
+      213: 1484595237049416314
+    second: font_UIcash_7
+  - first:
+      213: -3210621718146602576
+    second: font_UIcash_8
+  - first:
+      213: 1359701792924677469
+    second: font_UIcash_9
+  - first:
+      213: -7293091110963622818
+    second: font_UIcash_10
+  - first:
+      213: 8213948466505911294
+    second: font_UIcash_11
+  - first:
+      213: 4217278361823934720
+    second: font_UIcash_12
+  - first:
+      213: 5925264748468546422
+    second: font_UIcash_13
+  - first:
+      213: -7232633818366079605
+    second: font_UIcash_14
+  - first:
+      213: -8101753291679504631
+    second: font_UIcash_15
+  - first:
+      213: 1975652543481616404
+    second: font_UIcash_16
+  - first:
+      213: -3977848009309755990
+    second: font_UIcash_17
+  - first:
+      213: 732117334901748792
+    second: font_UIcash_18
+  - first:
+      213: -2576562193377256975
+    second: font_UIcash_19
+  - first:
+      213: 5585769006873175645
+    second: font_UIcash_20
+  - first:
+      213: -3763860988089809162
+    second: font_UIcash_21
+  - first:
+      213: 1160994896369362310
+    second: font_UIcash_22
+  - first:
+      213: -2191355263075258817
+    second: font_UIcash_23
+  - first:
+      213: 6945045045102434889
+    second: font_UIcash_24
+  - first:
+      213: 38211101985290549
+    second: font_UIcash_25
+  - first:
+      213: 4215276498042004114
+    second: font_UIcash_26
+  - first:
+      213: -331480251556316437
+    second: font_UIcash_27
+  - first:
+      213: 1891416985949200721
+    second: font_UIcash_28
+  - first:
+      213: 7798540925994815476
+    second: font_UIcash_29
+  - first:
+      213: 6601309222640822615
+    second: font_UIcash_30
+  - first:
+      213: 6707121970759778063
+    second: font_UIcash_31
+  - first:
+      213: -4332887946251906488
+    second: font_UIcash_32
+  - first:
+      213: -7677912349287769880
+    second: font_UIcash_33
+  - first:
+      213: 808427278419143649
+    second: font_UIcash_34
+  - first:
+      213: 3716042258106294348
+    second: font_UIcash_35
+  - first:
+      213: -411162991278663065
+    second: font_UIcash_36
+  - first:
+      213: -8521100121111571335
+    second: font_UIcash_37
+  - first:
+      213: 8802704929953824668
+    second: font_UIcash_38
+  - first:
+      213: 3709080105288506629
+    second: font_UIcash_39
+  - first:
+      213: -6718175183016598512
+    second: font_UIcash_40
+  - first:
+      213: 6813481703436102530
+    second: font_UIcash_41
+  - first:
+      213: 8514275350706916180
+    second: font_UIcash_42
+  - first:
+      213: -1728084164337282558
+    second: font_UIcash_43
+  - first:
+      213: -5277341953166029690
+    second: font_UIcash_44
+  - first:
+      213: -6669012829300117085
+    second: font_UIcash_45
+  - first:
+      213: -3920121435365590789
+    second: font_UIcash_46
+  - first:
+      213: 5953457471499260067
+    second: font_UIcash_47
+  - first:
+      213: 1729920019091500772
+    second: font_UIcash_48
+  - first:
+      213: -7725035231994286030
+    second: font_UIcash_49
+  - first:
+      213: -1723546163631962126
+    second: font_UIcash_50
+  - first:
+      213: 8134711660131580567
+    second: font_UIcash_51
+  - first:
+      213: -1928870651901285532
+    second: font_UIcash_52
+  - first:
+      213: -905720948748912153
+    second: font_UIcash_53
+  - first:
+      213: -7826204409215960547
+    second: font_UIcash_54
+  - first:
+      213: 6359729647416642302
+    second: font_UIcash_55
+  - first:
+      213: 966432865950030091
+    second: font_UIcash_56
+  - first:
+      213: -830786426110157394
+    second: font_UIcash_57
+  - first:
+      213: 8764992900277208643
+    second: font_UIcash_58
+  - first:
+      213: 2782870040998849981
+    second: font_UIcash_59
+  - first:
+      213: -7125652910609392053
+    second: font_UIcash_60
+  - first:
+      213: 3141443325805161315
+    second: font_UIcash_61
+  - first:
+      213: 7203819133925662323
+    second: font_UIcash_62
+  - first:
+      213: -6855485618518134456
+    second: font_UIcash_63
+  - first:
+      213: -6614073863765876474
+    second: font_UIcash_64
+  - first:
+      213: 3637307112244054111
+    second: font_UIcash_65
+  - first:
+      213: 7322352759863864940
+    second: font_UIcash_66
+  - first:
+      213: -6737786237646429406
+    second: font_UIcash_67
+  - first:
+      213: -5812817463239272336
+    second: font_UIcash_68
+  - first:
+      213: -5781811899078378340
+    second: font_UIcash_69
+  - first:
+      213: 6590195934979243180
+    second: font_UIcash_70
+  - first:
+      213: 3223460962435030780
+    second: font_UIcash_71
+  - first:
+      213: -8514152612184033607
+    second: font_UIcash_72
+  - first:
+      213: 5095964991525719786
+    second: font_UIcash_73
+  - first:
+      213: -3959702570640853912
+    second: font_UIcash_74
+  - first:
+      213: 1209839221001839398
+    second: font_UIcash_75
+  - first:
+      213: -5755272290312854160
+    second: font_UIcash_76
+  - first:
+      213: -563619057225654784
+    second: font_UIcash_77
+  - first:
+      213: 2616004614145548101
+    second: font_UIcash_78
+  - first:
+      213: 8352517335686160105
+    second: font_UIcash_79
+  - first:
+      213: -7319409331296942252
+    second: font_UIcash_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: font_UIcash_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d2f9e0a196e9600800000000000000
+      internalID: 476934171183230349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 102
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778711cec17b1b060800000000000000
+      internalID: 6967551433366403191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 102
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc1018ca44dd3610800000000000000
+      internalID: 1602670460062932172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 104
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ac4eb085ae11bd0800000000000000
+      internalID: -2661088240921687410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 105
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb784b67eec0821a0800000000000000
+      internalID: -6834198216201435205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 104
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2ec259179d6bb80800000000000000
+      internalID: -8379270974818950440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 105
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef3afa45e6129b10800000000000000
+      internalID: 1986675559685046245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 104
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a319b90875a9410800000000000000
+      internalID: 1484595237049416314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 105
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9a7b5de849173d0800000000000000
+      internalID: -3210621718146602576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 104
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55bcbf9391aed210800000000000000
+      internalID: 1359701792924677469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 104
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c4478664cb9ca90800000000000000
+      internalID: -7293091110963622818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 104
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb03756c9ecdf170800000000000000
+      internalID: 8213948466505911294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 107
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009f4737358c68a30800000000000000
+      internalID: 4217278361823934720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 104
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bac9435e4ca3250800000000000000
+      internalID: 5925264748468546422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 104
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d00d1ccd580ab90800000000000000
+      internalID: -7232633818366079605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 104
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907679f5e4ac09f80800000000000000
+      internalID: -8101753291679504631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 104
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41891d5558dea6b10800000000000000
+      internalID: 1975652543481616404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 104
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5e892af48dbc8c0800000000000000
+      internalID: -3977848009309755990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 104
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83479b056d0092a00800000000000000
+      internalID: 732117334901748792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 105
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f91c0a16563e3cd0800000000000000
+      internalID: -2576562193377256975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 104
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56ef0c2153a48d40800000000000000
+      internalID: 5585769006873175645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6c4f48f5414cbc0800000000000000
+      internalID: -3763860988089809162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685232005beac1010800000000000000
+      internalID: 1160994896369362310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e67bf9ffdb691e0800000000000000
+      internalID: -2191355263075258817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ada6e0ca1c16060800000000000000
+      internalID: 6945045045102434889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5393f487bc0c78000800000000000000
+      internalID: 38211101985290549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a8d734abaf7a30800000000000000
+      internalID: 4215276498042004114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beabdeba778566bf0800000000000000
+      internalID: -331480251556316437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15164a14ab9af3a10800000000000000
+      internalID: 1891416985949200721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff444c57abf93c60800000000000000
+      internalID: 7798540925994815476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 79
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759240443cf8c9b50800000000000000
+      internalID: 6601309222640822615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fba5485eb741d50800000000000000
+      internalID: 6707121970759778063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 79
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84255189e5d7ed3c0800000000000000
+      internalID: -4332887946251906488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e81e1cc563927590800000000000000
+      internalID: -7677912349287769880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eba8e4935c183b00800000000000000
+      internalID: 808427278419143649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4024ccceb8029330800000000000000
+      internalID: 3716042258106294348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 79
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a5c0810714b4af0800000000000000
+      internalID: -411162991278663065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 80
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9745b992698feb980800000000000000
+      internalID: -8521100121111571335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 79
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f3a7cbe7d792a70800000000000000
+      internalID: 8802704929953824668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 79
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d903744bc497330800000000000000
+      internalID: 3709080105288506629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_40
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0146375f34f34c2a0800000000000000
+      internalID: -6718175183016598512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 80
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28baee882895e8e50800000000000000
+      internalID: 6813481703436102530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b00c62258c82670800000000000000
+      internalID: 8514275350706916180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202d2babb9c9408e0800000000000000
+      internalID: -1728084164337282558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cc543447d13c6b0800000000000000
+      internalID: -5277341953166029690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 56
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a13b0b6a28e273a0800000000000000
+      internalID: -6669012829300117085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8b3a0035ee899c0800000000000000
+      internalID: -3920121435365590789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0db1e070eee9250800000000000000
+      internalID: 5953457471499260067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee29c38719e10810800000000000000
+      internalID: 1729920019091500772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_49
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2307a9fa2692bc490800000000000000
+      internalID: -7725035231994286030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 57
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7caba55ebb418e0800000000000000
+      internalID: -1723546163631962126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_51
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79afe54c72d44e070800000000000000
+      internalID: 8134711660131580567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 57
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b6fb79c564b35e0800000000000000
+      internalID: -1928870651901285532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_53
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 56
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9f038889b3e63f0800000000000000
+      internalID: -905720948748912153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_54
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 60
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a36190e8cb36390800000000000000
+      internalID: -7826204409215960547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_55
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 56
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa0ac54b6c424850800000000000000
+      internalID: 6359729647416642302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09d63a3295796d00800000000000000
+      internalID: 966432865950030091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_57
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaddc7ba5247874f0800000000000000
+      internalID: -830786426110157394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 31
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34608d79a9283a970800000000000000
+      internalID: 8764992900277208643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_59
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd20d9de8dbe9620800000000000000
+      internalID: 2782870040998849981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_60
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e166e5e689c1d90800000000000000
+      internalID: -7125652910609392053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 57
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b63ac8f06a89b20800000000000000
+      internalID: 3141443325805161315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e1dc7b55b19f360800000000000000
+      internalID: 7203819133925662323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_63
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8417d61e62c6cd0a0800000000000000
+      internalID: -6855485618518134456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6012a002dd61634a0800000000000000
+      internalID: -6614073863765876474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_65
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 56
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f580f4c1c8f4a7230800000000000000
+      internalID: 3637307112244054111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e69c32a093e9560800000000000000
+      internalID: 7322352759863864940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_67
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 33
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223a19c7d139e72a0800000000000000
+      internalID: -6737786237646429406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_68
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 33
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0789f679059b45fa0800000000000000
+      internalID: -5812817463239272336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_69
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c7e4d06b0e2cfa0800000000000000
+      internalID: -5781811899078378340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_70
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 38
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac39a85944157b50800000000000000
+      internalID: 6590195934979243180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_71
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 39
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe574daaa80cbc20800000000000000
+      internalID: 3223460962435030780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_72
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 33
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b67e432f47a7d980800000000000000
+      internalID: -8514152612184033607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_73
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 37
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee87b3092188b640800000000000000
+      internalID: 5095964991525719786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_74
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 33
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86430cccd7f4c09c0800000000000000
+      internalID: -3959702570640853912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 33
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623662b8c563ac010800000000000000
+      internalID: 1209839221001839398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 34
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075e04e385a2120b0800000000000000
+      internalID: -5755272290312854160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_77
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 37
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e9c61247f9d28f0800000000000000
+      internalID: -563619057225654784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_78
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 37
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f9dec165aed4420800000000000000
+      internalID: 2616004614145548101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_79
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 44
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee9dd5634a1ae370800000000000000
+      internalID: 8352517335686160105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_UIcash_80
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 34
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457cd5a3efb3c6a90800000000000000
+      internalID: -7319409331296942252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

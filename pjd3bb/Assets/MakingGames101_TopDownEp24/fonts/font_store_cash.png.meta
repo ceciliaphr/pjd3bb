@@ -1,0 +1,2843 @@
+fileFormatVersion: 2
+guid: 17794aefa25d6824eb5de06d15969104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4505815320071020632
+    second: font_store_cash_0
+  - first:
+      213: -1201074417649586088
+    second: font_store_cash_1
+  - first:
+      213: -72810462825515776
+    second: font_store_cash_2
+  - first:
+      213: 5067219371687143197
+    second: font_store_cash_3
+  - first:
+      213: -9056239867315769189
+    second: font_store_cash_4
+  - first:
+      213: -7911122846504339765
+    second: font_store_cash_5
+  - first:
+      213: 451061358570113789
+    second: font_store_cash_6
+  - first:
+      213: 636135528318513303
+    second: font_store_cash_7
+  - first:
+      213: 5550981964796433997
+    second: font_store_cash_8
+  - first:
+      213: 8860643295122447519
+    second: font_store_cash_9
+  - first:
+      213: -2347520800320017415
+    second: font_store_cash_10
+  - first:
+      213: -1922647085978782931
+    second: font_store_cash_11
+  - first:
+      213: -8148232288999462459
+    second: font_store_cash_12
+  - first:
+      213: -2865344218538716238
+    second: font_store_cash_13
+  - first:
+      213: -3396673115308039979
+    second: font_store_cash_14
+  - first:
+      213: -2150148748408969352
+    second: font_store_cash_15
+  - first:
+      213: 3422082736950526407
+    second: font_store_cash_16
+  - first:
+      213: -5232678947666519145
+    second: font_store_cash_17
+  - first:
+      213: -4368784396598380422
+    second: font_store_cash_18
+  - first:
+      213: 5322903651897222781
+    second: font_store_cash_19
+  - first:
+      213: 5092864862147936306
+    second: font_store_cash_20
+  - first:
+      213: -1463209656996904079
+    second: font_store_cash_21
+  - first:
+      213: 4971223385730251718
+    second: font_store_cash_22
+  - first:
+      213: 3890512989165026739
+    second: font_store_cash_23
+  - first:
+      213: -2944951750269287619
+    second: font_store_cash_24
+  - first:
+      213: -1525539579824702469
+    second: font_store_cash_25
+  - first:
+      213: 4681938305269177675
+    second: font_store_cash_26
+  - first:
+      213: 2048482787628597558
+    second: font_store_cash_27
+  - first:
+      213: 146520337549796693
+    second: font_store_cash_28
+  - first:
+      213: -4417132638808331411
+    second: font_store_cash_29
+  - first:
+      213: -8569015772463215121
+    second: font_store_cash_30
+  - first:
+      213: 3449088425965960930
+    second: font_store_cash_31
+  - first:
+      213: -6536028299104775754
+    second: font_store_cash_32
+  - first:
+      213: -5539354444601053665
+    second: font_store_cash_33
+  - first:
+      213: 1457713091213826489
+    second: font_store_cash_34
+  - first:
+      213: 4425092599850816346
+    second: font_store_cash_35
+  - first:
+      213: 5865316872350740239
+    second: font_store_cash_36
+  - first:
+      213: -1251232779901565794
+    second: font_store_cash_37
+  - first:
+      213: -5406065855911412028
+    second: font_store_cash_38
+  - first:
+      213: -879274600784239067
+    second: font_store_cash_39
+  - first:
+      213: 2285637538638655283
+    second: font_store_cash_40
+  - first:
+      213: 5921122773447605210
+    second: font_store_cash_41
+  - first:
+      213: 9191063441113798987
+    second: font_store_cash_42
+  - first:
+      213: 1200299506970822637
+    second: font_store_cash_43
+  - first:
+      213: 439523319416772988
+    second: font_store_cash_44
+  - first:
+      213: 4783118292880785837
+    second: font_store_cash_45
+  - first:
+      213: 6033763828627309680
+    second: font_store_cash_46
+  - first:
+      213: 4463484930061346128
+    second: font_store_cash_47
+  - first:
+      213: -4829043430650280435
+    second: font_store_cash_48
+  - first:
+      213: -35486387615349156
+    second: font_store_cash_49
+  - first:
+      213: 3790033653900943878
+    second: font_store_cash_50
+  - first:
+      213: -4755133961120504918
+    second: font_store_cash_51
+  - first:
+      213: -4684683810167342939
+    second: font_store_cash_52
+  - first:
+      213: -4584712993924942567
+    second: font_store_cash_53
+  - first:
+      213: 5156244273100306357
+    second: font_store_cash_54
+  - first:
+      213: -1513686170575521769
+    second: font_store_cash_55
+  - first:
+      213: 2683275733371103009
+    second: font_store_cash_56
+  - first:
+      213: -7516552285232212952
+    second: font_store_cash_57
+  - first:
+      213: -5708008540716820791
+    second: font_store_cash_58
+  - first:
+      213: 5256464460842339744
+    second: font_store_cash_59
+  - first:
+      213: 3318352980352141408
+    second: font_store_cash_60
+  - first:
+      213: 1895024137286616599
+    second: font_store_cash_61
+  - first:
+      213: -4895373963416064708
+    second: font_store_cash_62
+  - first:
+      213: 6122481923106940501
+    second: font_store_cash_63
+  - first:
+      213: 7613381227312987603
+    second: font_store_cash_64
+  - first:
+      213: 6340525052824858928
+    second: font_store_cash_65
+  - first:
+      213: 55643342751826225
+    second: font_store_cash_66
+  - first:
+      213: 4027150326926723083
+    second: font_store_cash_67
+  - first:
+      213: -1423019135467437134
+    second: font_store_cash_68
+  - first:
+      213: -8795549082247117622
+    second: font_store_cash_69
+  - first:
+      213: 7212171497579058178
+    second: font_store_cash_70
+  - first:
+      213: 2387650667240878627
+    second: font_store_cash_71
+  - first:
+      213: -4536373722226924881
+    second: font_store_cash_72
+  - first:
+      213: -6531135532551296839
+    second: font_store_cash_73
+  - first:
+      213: -4274757310472457325
+    second: font_store_cash_74
+  - first:
+      213: 8967593578858177968
+    second: font_store_cash_75
+  - first:
+      213: -6815085083475867231
+    second: font_store_cash_76
+  - first:
+      213: 7223075111245715361
+    second: font_store_cash_77
+  - first:
+      213: 4616035546871344443
+    second: font_store_cash_78
+  - first:
+      213: 4812931289446233700
+    second: font_store_cash_79
+  - first:
+      213: 5123359454382669450
+    second: font_store_cash_80
+  - first:
+      213: -1668249420165524952
+    second: font_store_cash_81
+  - first:
+      213: -4197309669873325896
+    second: font_store_cash_82
+  - first:
+      213: 4971472922610675838
+    second: font_store_cash_83
+  - first:
+      213: -3680338348295747965
+    second: font_store_cash_84
+  - first:
+      213: -5265443672309405247
+    second: font_store_cash_85
+  - first:
+      213: 8012814673126759959
+    second: font_store_cash_86
+  - first:
+      213: 1460816790024499902
+    second: font_store_cash_87
+  - first:
+      213: 5931799940741703873
+    second: font_store_cash_88
+  - first:
+      213: -3829577491569122008
+    second: font_store_cash_89
+  - first:
+      213: -2747479948573345460
+    second: font_store_cash_90
+  - first:
+      213: -7884842280806348249
+    second: font_store_cash_91
+  - first:
+      213: 3278532706590954281
+    second: font_store_cash_92
+  - first:
+      213: -1419835726223443604
+    second: font_store_cash_93
+  - first:
+      213: -4333276975619119224
+    second: font_store_cash_94
+  - first:
+      213: 7877459907145090033
+    second: font_store_cash_95
+  - first:
+      213: -4080768202428538610
+    second: font_store_cash_96
+  - first:
+      213: -1950935832195952802
+    second: font_store_cash_97
+  - first:
+      213: -5982243673532870717
+    second: font_store_cash_98
+  - first:
+      213: -3031348697098374850
+    second: font_store_cash_99
+  - first:
+      213: 966269336935194637
+    second: font_store_cash_100
+  - first:
+      213: 5307540509964843837
+    second: font_store_cash_101
+  - first:
+      213: 2874665637581738486
+    second: font_store_cash_102
+  - first:
+      213: 7539259196181152076
+    second: font_store_cash_103
+  - first:
+      213: -505714402607695982
+    second: font_store_cash_104
+  - first:
+      213: 5706003767065999379
+    second: font_store_cash_105
+  - first:
+      213: 6421848413264313590
+    second: font_store_cash_106
+  - first:
+      213: 6501318780988558899
+    second: font_store_cash_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: font_store_cash_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 210
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af57a7d6d02871c0800000000000000
+      internalID: -4505815320071020632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 206
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850ff234e2de45fe0800000000000000
+      internalID: -1201074417649586088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 205
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0057a5315435dfef0800000000000000
+      internalID: -72810462825515776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 210
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17e368db21625640800000000000000
+      internalID: 5067219371687143197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 211
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90b9eb92d5c15280800000000000000
+      internalID: -9056239867315769189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 210
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6b1af9fab063290800000000000000
+      internalID: -7911122846504339765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 226
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa0a717aed724600800000000000000
+      internalID: 451061358570113789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 210
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7903e6284e104d800800000000000000
+      internalID: 636135528318513303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 210
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d469a46cfac090d40800000000000000
+      internalID: 5550981964796433997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 211
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c5837912457fa70800000000000000
+      internalID: 8860643295122447519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 228
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fba512154eeb6fd0800000000000000
+      internalID: -2347520800320017415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 210
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d237bc379a26155e0800000000000000
+      internalID: -1922647085978782931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 211
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9a1d287e9abee80800000000000000
+      internalID: -8148232288999462459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 226
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3d7ce4d904c38d0800000000000000
+      internalID: -2865344218538716238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 210
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0e1f74cc79cd0d0800000000000000
+      internalID: -3396673115308039979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 210
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87725d4fa132922e0800000000000000
+      internalID: -2150148748408969352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 210
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1cee74e1ead7f20800000000000000
+      internalID: 3422082736950526407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 210
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b1ca4983ac167b0800000000000000
+      internalID: -5232678947666519145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 228
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78fb74fcb5fe53c0800000000000000
+      internalID: -4368784396598380422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 210
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76a6f06ba0ced940800000000000000
+      internalID: 5322903651897222781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 210
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2308565eb9d7da640800000000000000
+      internalID: 5092864862147936306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 211
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17347c2c192a1bbe0800000000000000
+      internalID: -1463209656996904079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_22
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 211
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbf095a4555df440800000000000000
+      internalID: 4971223385730251718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_23
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 211
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd793963f0edf530800000000000000
+      internalID: 3890512989165026739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 210
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33c8847cfd6127d0800000000000000
+      internalID: -2944951750269287619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_25
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 210
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbffb5b5d134dae0800000000000000
+      internalID: -1525539579824702469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 210
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d1dd9251699f040800000000000000
+      internalID: 4681938305269177675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 211
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631ca15fd3cad6c10800000000000000
+      internalID: 2048482787628597558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 211
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555a600887b880200800000000000000
+      internalID: 146520337549796693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bab0a944133b2c0800000000000000
+      internalID: -4417132638808331411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 160
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed4c973e8db41980800000000000000
+      internalID: -8569015772463215121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 159
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eebc9c36af9ddf20800000000000000
+      internalID: 3449088425965960930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b195fd24ec5b45a0800000000000000
+      internalID: -6536028299104775754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 159
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ea29c3b724023b0800000000000000
+      internalID: -5539354444601053665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 160
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b99c3a4556da3410800000000000000
+      internalID: 1457713091213826489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 159
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5351504646196d30800000000000000
+      internalID: 4425092599850816346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_36
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 159
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f229f9e9ac56150800000000000000
+      internalID: 5865316872350740239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 160
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9484ae7a6ab2aee0800000000000000
+      internalID: -1251232779901565794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_38
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 159
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce38022fbbc9f4b0800000000000000
+      internalID: -5406065855911412028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 159
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266b30c8603cc3f0800000000000000
+      internalID: -879274600784239067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 159
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fead74b3738bf10800000000000000
+      internalID: 2285637538638655283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_41
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 160
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbf1de7acd0c2250800000000000000
+      internalID: 5921122773447605210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 159
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49daabd0873d8f70800000000000000
+      internalID: 9191063441113798987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_43
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 159
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de78219ca0258a010800000000000000
+      internalID: 1200299506970822637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 159
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79565c5120891600800000000000000
+      internalID: 439523319416772988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_45
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 160
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da105ddcebc016240800000000000000
+      internalID: 4783118292880785837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_46
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 177
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0748eefdb3c3cb350800000000000000
+      internalID: 6033763828627309680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_47
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 159
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055ad9435eb71fd30800000000000000
+      internalID: 4463484930061346128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06082fc59acbfcb0800000000000000
+      internalID: -4829043430650280435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_49
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 159
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5643d7815de18ff0800000000000000
+      internalID: -35486387615349156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_50
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 160
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602aa8b1787e89430800000000000000
+      internalID: 3790033653900943878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_51
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 159
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3240c2bde520eb0800000000000000
+      internalID: -4755133961120504918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_52
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 159
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8b3f925e8acfeb0800000000000000
+      internalID: -4684683810167342939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 160
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9157cf7a2d3df50c0800000000000000
+      internalID: -4584712993924942567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b73941f8d8ae8740800000000000000
+      internalID: 5156244273100306357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_55
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 114
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718bc6d927e4efae0800000000000000
+      internalID: -1513686170575521769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_56
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 115
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127a20a1019ec3520800000000000000
+      internalID: 2683275733371103009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 115
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824551f5587dfa790800000000000000
+      internalID: -7516552285232212952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_58
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 114
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c69dab797419c0b0800000000000000
+      internalID: -5708008540716820791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_59
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 115
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad09f2c396b2f840800000000000000
+      internalID: 5256464460842339744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 115
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0688f3944782d0e20800000000000000
+      internalID: 3318352980352141408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_61
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 114
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71682cf996a7c4a10800000000000000
+      internalID: 1895024137286616599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 115
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3da3eb2153201cb0800000000000000
+      internalID: -4895373963416064708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_63
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 121
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5562a8aeedc67f450800000000000000
+      internalID: 6122481923106940501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 122
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd3e9983e928a960800000000000000
+      internalID: 7613381227312987603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 114
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031371721f11ef750800000000000000
+      internalID: 6340525052824858928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_66
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 114
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13186de435fa5c000800000000000000
+      internalID: 55643342751826225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_67
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 115
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08c095b2ef43e730800000000000000
+      internalID: 4027150326926723083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_68
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 114
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b341e1c2ab604ce0800000000000000
+      internalID: -1423019135467437134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_69
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 115
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4c524e5beefe580800000000000000
+      internalID: -8795549082247117622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 115
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204956ce3c7c61460800000000000000
+      internalID: 7212171497579058178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_71
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 115
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322fd9ca1a3a22120800000000000000
+      internalID: 2387650667240878627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_72
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 115
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa26f3662209b01c0800000000000000
+      internalID: -4536373722226924881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_73
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 115
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8295a26debc55a0800000000000000
+      internalID: -6531135532551296839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_74
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 115
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393f840ffd20da4c0800000000000000
+      internalID: -4274757310472457325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_75
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 120
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b56aedf8da437c70800000000000000
+      internalID: 8967593578858177968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_76
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 115
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a98b557934fb61a0800000000000000
+      internalID: -6815085083475867231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 115
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a714cf4b848d3460800000000000000
+      internalID: 7223075111245715361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_78
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 114
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3da7d18fd37f0040800000000000000
+      internalID: 4616035546871344443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4663ecbf187fac240800000000000000
+      internalID: 4812931289446233700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_80
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 77
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e3e1f6744d91740800000000000000
+      internalID: 5123359454382669450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_81
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822584abdff29d8e0800000000000000
+      internalID: -1668249420165524952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_82
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 62
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b863e2f71920c5c0800000000000000
+      internalID: -4197309669873325896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_83
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 62
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70beaa78483ef440800000000000000
+      internalID: 4971472922610675838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_84
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 69
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386859085cfccecc0800000000000000
+      internalID: -3680338348295747965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c96b27a0e26de6b0800000000000000
+      internalID: -5265443672309405247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_86
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 62
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e12c2dd7c333f60800000000000000
+      internalID: 8012814673126759959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_87
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 62
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2365b712dd54410800000000000000
+      internalID: 1460816790024499902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_88
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 83
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8a79a3e9cf15250800000000000000
+      internalID: 5931799940741703873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 86
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825e037bf8b9adac0800000000000000
+      internalID: -3829577491569122008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 86
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49f6c52b8dfed9d0800000000000000
+      internalID: -2747479948573345460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_91
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a8e86a8b9639290800000000000000
+      internalID: -7884842280806348249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_92
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 62
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9239ad05020bf7d20800000000000000
+      internalID: 3278532706590954281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_93
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 62
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69fa0bfdeabb4ce0800000000000000
+      internalID: -1419835726223443604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_94
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 69
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887e7d2ac8b1dd3c0800000000000000
+      internalID: -4333276975619119224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_95
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 62
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3c3c98c0c525d60800000000000000
+      internalID: 7877459907145090033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_96
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 62
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a983d0f23e57c0800000000000000
+      internalID: -4080768202428538610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_97
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f01667232ece4e0800000000000000
+      internalID: -1950935832195952802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_98
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 88
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfce3ff21dcafca0800000000000000
+      internalID: -5982243673532870717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_99
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 86
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31bb17bb6c7ee5d0800000000000000
+      internalID: -3031348697098374850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_100
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 80
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00ef59a7d0e86d00800000000000000
+      internalID: 966269336935194637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_101
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 77
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b337729fb28a940800000000000000
+      internalID: 5307540509964843837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_102
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 72
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1d410ba2dd4e720800000000000000
+      internalID: 2874665637581738486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_103
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4189f15b44d0a860800000000000000
+      internalID: 7539259196181152076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_104
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 56
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297f4c22e675bf8f0800000000000000
+      internalID: -505714402607695982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_105
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 56
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3187207c13ccf2f40800000000000000
+      internalID: 5706003767065999379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_106
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc76028b1dfe1950800000000000000
+      internalID: 6421848413264313590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_store_cash_107
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e06606cf2593a50800000000000000
+      internalID: 6501318780988558899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
