@@ -100,9 +100,11 @@ GameObject:
   - component: {fileID: 8549349738917286887}
   - component: {fileID: 8001789657554641383}
   - component: {fileID: 300291638577697710}
+  - component: {fileID: 700472027579618091}
+  - component: {fileID: 8877817682152904915}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -206,7 +208,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!58 &8001789657554641383
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -280,6 +282,44 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 0.36, y: 0.74}
   m_Direction: 0
+--- !u!114 &700472027579618091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3464699344421260614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e24def09df7bbc9459cd7aaba606c2f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade: 11
+  vida: 11
+  energia: 11
+  arma: {fileID: 8748471941145739393}
+--- !u!95 &8877817682152904915
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3464699344421260614}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0ea9b40310eb3fd4b96a4468b9e1bea9, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &4877467974887247224
 GameObject:
   m_ObjectHideFlags: 0
@@ -392,7 +432,7 @@ Transform:
   m_GameObject: {fileID: 6024358860998585590}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.536, y: -0.039, z: 0}
+  m_LocalPosition: {x: 0.464, y: 0.024, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
