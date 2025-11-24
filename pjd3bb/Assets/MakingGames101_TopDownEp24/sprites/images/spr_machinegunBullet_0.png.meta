@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_machinegunBullet_0_0: -7586429371108294104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

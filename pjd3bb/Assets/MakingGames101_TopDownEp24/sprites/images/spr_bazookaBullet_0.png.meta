@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_bazookaBullet_0_0: 9053182743529803804
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

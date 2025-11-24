@@ -70,6 +70,6 @@ public class Player : Personagem
             //gameObject.SetActive(false);
         }
         
-        animator.SetBool("Andando", andando);
+        //animator.SetBool("Andando", andando);
     }
 }
