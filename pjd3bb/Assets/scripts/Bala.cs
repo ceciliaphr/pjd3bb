@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class Bala : MonoBehaviour
@@ -33,7 +34,7 @@ public class Bala : MonoBehaviour
         }
     }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D  collision)
     {
         if (collision.gameObject.CompareTag("Inimigo"))
         {
@@ -42,12 +43,13 @@ public class Bala : MonoBehaviour
             collision.gameObject.GetComponent<Personagem>().setVida(novaVida);
             
             //collision.gameObject.GetComponent<Personagem>().recebeDano(getDano());
+            Destroy(gameObject);
         }
         
         // desliga a bala apos a colisão
         //gameObject.SetActive(false);
         
         //destrtoi a bala apos a colisão
-        Destroy(gameObject);
+        
     }
 }
