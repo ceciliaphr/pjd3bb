@@ -59,7 +59,7 @@ public class Arma : MonoBehaviour
             
             Debug.Log("Bala disparada");
          
-            GameObject b = Instantiate (this.bala,saidaDoTiro.position, saidaDoTiro.rotation) as GameObject;
+//            GameObject b = Instantiate (this.bala,saidaDoTiro.position, saidaDoTiro.rotation) as GameObject;
             
             tempoDeDisparo = intevaloDeDisparo;
         }
