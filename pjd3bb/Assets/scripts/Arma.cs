@@ -55,15 +55,14 @@ public class Arma : MonoBehaviour
         
         
         if (tempoDeDisparo <=0 && Input.GetKeyDown(KeyCode.Mouse0))
-        {
-            
-            Debug.Log("Bala disparada");
-         
-//            GameObject b = Instantiate (this.bala,saidaDoTiro.position, saidaDoTiro.rotation) as GameObject;
-            
-            tempoDeDisparo = intevaloDeDisparo;
-        }
-
+{
+    Debug.Log("Bala disparada");
+    
+    
+    GameObject b = Instantiate(bala, saidaDoTiro.position, saidaDoTiro.rotation);
+    
+    tempoDeDisparo = intevaloDeDisparo;
+}
         if (tempoDeDisparo > 0)
         {
             tempoDeDisparo -= Time.deltaTime;

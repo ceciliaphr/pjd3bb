@@ -560,7 +560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade: 1
-  vida: 10
+  vida: 8
   energia: 100
   dano: 1
   raioDeVisao: 1

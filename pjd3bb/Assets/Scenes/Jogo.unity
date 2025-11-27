@@ -290,6 +290,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &436875116 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2317465276502832293, guid: 8efbf529926d6e04ebba16931003a5ae, type: 3}
+  m_PrefabInstance: {fileID: 4756334406487134809}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1349,6 +1354,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 111755825276219829, guid: 6fecd8583b03fba4eb8e6c0d7184d9e9, type: 3}
+      propertyPath: posicaoDoPlayer
+      value: 
+      objectReference: {fileID: 436875116}
     - target: {fileID: 3168099320515383260, guid: 6fecd8583b03fba4eb8e6c0d7184d9e9, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -1475,6 +1484,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3271962887054774664, guid: 4e98b8ecb2b9aa4469afb4ff58ce3894, type: 3}
+      propertyPath: velocidade
+      value: 2.09
+      objectReference: {fileID: 0}
     - target: {fileID: 6227924798824380383, guid: 4e98b8ecb2b9aa4469afb4ff58ce3894, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.643
@@ -1518,6 +1531,10 @@ PrefabInstance:
     - target: {fileID: 8729110127508208864, guid: 4e98b8ecb2b9aa4469afb4ff58ce3894, type: 3}
       propertyPath: m_Name
       value: Bala
+      objectReference: {fileID: 0}
+    - target: {fileID: 8729110127508208864, guid: 4e98b8ecb2b9aa4469afb4ff58ce3894, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

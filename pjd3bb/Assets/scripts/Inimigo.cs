@@ -14,8 +14,8 @@ public class Inimigo : Personagem
 
     private AudioSource audioSource;
     
-    
     private bool andando = false;
+    private bool estaMorto = false; // Nova variável para controlar o estado de morte
     
     public void setDano(int dano)
     {
@@ -43,6 +43,9 @@ public class Inimigo : Personagem
 
     void Update()
     {
+        // Se já está morto, não faz nada
+        if (estaMorto) return;
+
         andando = false;
 
         if (getVida() > 0)
@@ -57,11 +60,10 @@ public class Inimigo : Personagem
                 spriteRenderer.flipX = true;
             }
 
-
             if (posicaoDoPlayer != null &&
                 Vector3.Distance(posicaoDoPlayer.position, transform.position) <= raioDeVisao)
             {
-                Debug.Log("Posição do Pluer" + posicaoDoPlayer.position);
+                Debug.Log("Posição do Player" + posicaoDoPlayer.position);
 
                 transform.position = Vector3.MoveTowards(transform.position,
                     posicaoDoPlayer.transform.position,
@@ -69,29 +71,41 @@ public class Inimigo : Personagem
 
                 andando = true;
             }
-
         }
-
-        if (getVida() <= 0)
+        else if (getVida() <= 0 && !estaMorto)
         {
-            animator.SetTrigger("Morte");
+            // Só ativa a morte uma vez
+            Morrer();
         }
         
-        animator.SetBool("Andando",andando);
+        animator.SetBool("Andando", andando);
     }
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Player") && getVida() > 0)
+        if (collision.gameObject.CompareTag("Player") && getVida() > 0 && !estaMorto)
         {
             // Causa dano ao Player
             int novaVida = collision.gameObject.GetComponent<Personagem>().getVida() - getDano();
             collision.gameObject.GetComponent<Personagem>().setVida(novaVida);
-
-            //collision.gameObject.GetComponent<Personagem>().recebeDano(getDano());
             
             setVida(0);
         }
+    }
+
+    // Método separado para lidar com a morte
+    private void Morrer()
+    {
+        estaMorto = true;
+        animator.SetTrigger("Morte");
+        
+        // Desativa colisores para o inimigo não atrapalhar depois de morto
+        Collider2D col = GetComponent<Collider2D>();
+        if (col != null) col.enabled = false;
+        
+        // Para de se mover
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+        if (rb != null) rb.linearVelocity = Vector2.zero;
     }
 
     public void playAudio()
@@ -99,9 +113,14 @@ public class Inimigo : Personagem
         audioSource.Play();
     }
 
+    // Método para ser chamado no final da animação de morte
+    public void DestruirInimigo()
+    {
+        Destroy(gameObject);
+    }
+
     public void desative()
     {
-        //desativa quando bate no player
-         gameObject.SetActive(false);
+        Destroy(gameObject);
     }
 }
